@@ -172,12 +172,8 @@ For More Info About It Check The Man Page by
 ```
 Username@your-regular-prompt:~$ man ./man_1_simple_shell
 ```
-Project Done in 15 Day
 
-Read More [Here](https://midinfotn401.medium.com/shell-step-by-step-what-happen-when-you-type-ls-l-in-the-shell-83d655712332)
+
 ## Authors
-* Ahmed Belhaj [Theemiss](https://github.com/Theemiss)
+dicemaka
 
-<p align="center">
-  <img src="http://www.holbertonschool.com/holberton-logo.png" alt="Holberton School logo">
-</p>
